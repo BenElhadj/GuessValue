@@ -1,2 +1,2 @@
-# GuessValue.c
+# GuessValue
 Open Enclave project
